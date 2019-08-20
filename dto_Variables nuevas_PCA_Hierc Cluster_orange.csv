@@ -1,0 +1,303 @@
+PC1,PC2,Tipologia 2017,Edo,Dto,Edo_Dto,Cluster,Selected
+continuous,continuous,discrete,string,string,string,discrete,discrete
+,,class,meta,meta,meta,,meta
+-0.897087496,-0.792044836,Dispersos 1,Aguascalientes,1,AGS-01,C3,Yes
+1.860080753,-1.384072931,Concentrados 1,Aguascalientes,2,AGS-02,C6,Yes
+2.353873582,0.850134415,Concentrados 2,Aguascalientes,3,AGS-03,C8,Yes
+1.359518158,-0.033336396,Concentrados 2,Baja California,1,BC-01,C7,Yes
+2.772659578,1.127105004,Concentrados 1,Baja California,2,BC-02,C9,Yes
+-0.857160265,1.758735763,Dispersos 2,Baja California,3,BC-03,C3,Yes
+2.063452851,-0.780914165,Concentrados 2,Baja California,4,BC-04,C6,Yes
+3.249557286,1.01403052,Altamente concentrado 2,Baja California,5,BC-05,C9,Yes
+2.772771532,0.516396104,Concentrados 1,Baja California,6,BC-06,C8,Yes
+0.056928437,0.757015131,Dispersos 1,Baja California,7,BC-07,C7,Yes
+2.392117098,-0.163979158,Concentrados 1,Baja California,8,BC-08,C8,Yes
+-4.046406789,2.302412324,Muy dispersos 2,Baja California Sur,1,BCS-01,C1,Yes
+-1.268981253,-1.774947962,Dispersos 2,Baja California Sur,2,BCS-02,C5,Yes
+-0.594873413,1.137168693,Dispersos 1,Campeche,1,CAMP-01,C3,Yes
+-2.432026792,1.098499176,Muy dispersos 1,Campeche,2,CAMP-02,C2,Yes
+-0.739224024,0.349339135,Dispersos 1,Coahuila,1,COAH-01,C3,Yes
+-4.322759574,2.56409393,Muy dispersos 2,Coahuila,2,COAH-02,C1,Yes
+-0.37519664,0.218919539,Concentración Media,Coahuila,3,COAH-03,C3,Yes
+1.328619694,-0.395060738,Concentrados 2,Coahuila,4,COAH-04,C7,Yes
+2.305458872,0.407991068,Altamente concentrado 2,Coahuila,5,COAH-05,C8,Yes
+-1.225887165,-1.623509676,Concentración Media,Coahuila,6,COAH-06,C5,Yes
+-0.355293862,0.099608327,Dispersos 1,Coahuila,7,COAH-07,C3,Yes
+0.850098756,-0.638636051,Concentrados 2,Colima,1,COL-01,C6,Yes
+0.048326763,-1.735927708,Concentración Media,Colima,2,COL-02,C7,Yes
+-3.652168792,-1.503758161,Muy dispersos 1,Chiapas,1,CHIS-01,C4,Yes
+-4.31769543,-2.143692632,Dispersos 2,Chiapas,2,CHIS-02,C4,Yes
+-4.790644631,-1.623092782,Muy dispersos 1,Chiapas,3,CHIS-03,C4,Yes
+-3.606676052,-0.927125469,Dispersos 2,Chiapas,4,CHIS-04,C4,Yes
+-2.164408091,-2.060257466,Concentración Media,Chiapas,5,CHIS-05,C5,Yes
+-0.643692753,-0.384097304,Dispersos 1,Chiapas,6,CHIS-06,C3,Yes
+-2.76523514,0.315077628,Muy dispersos 1,Chiapas,7,CHIS-07,C2,Yes
+-2.087918971,-0.398688799,Dispersos 2,Chiapas,8,CHIS-08,C5,Yes
+1.149073716,-0.707048431,Altamente concentrado 2,Chiapas,9,CHIS-09,C6,Yes
+-3.057652345,0.01849832,Muy dispersos 1,Chiapas,10,CHIS-10,C2,Yes
+-4.132769198,-2.68512787,Dispersos 2,Chiapas,11,CHIS-11,C4,Yes
+0.119068649,-0.541178307,Concentración Media,Chiapas,12,CHIS-12,C7,Yes
+-4.215803179,-0.638752867,Muy dispersos 1,Chiapas,13,CHIS-13,C4,Yes
+2.031506598,-1.874401216,Altamente concentrado 2,Chihuahua,1,CHIH-01,C6,Yes
+-2.169940465,0.553755797,Muy dispersos 1,Chihuahua,2,CHIH-02,C2,Yes
+1.718857067,-0.968169546,Concentrados 1,Chihuahua,3,CHIH-03,C6,Yes
+2.16911195,0.513224806,Altamente concentrado 2,Chihuahua,4,CHIH-04,C8,Yes
+-2.192925597,2.619518617,Muy dispersos 1,Chihuahua,5,CHIH-05,C1,Yes
+2.64341382,1.337839973,Concentrados 2,Chihuahua,6,CHIH-06,C9,Yes
+-3.74330216,2.238514333,Muy dispersos 2,Chihuahua,7,CHIH-07,C1,Yes
+2.055293401,-0.011457072,Concentrados 1,Chihuahua,8,CHIH-08,C8,Yes
+-4.455854746,1.123800876,Muy dispersos 2,Chihuahua,9,CHIH-09,C1,Yes
+2.875631951,0.074008281,Altamente concentrado 1,Ciudad De Mexico,1,CDMX-01,C8,Yes
+4.657141534,3.267415468,Altamente concentrado 1,Ciudad De Mexico,2,CDMX-02,C9,Yes
+4.522934262,3.292537584,Altamente concentrado 1,Ciudad De Mexico,3,CDMX-03,C9,Yes
+3.032518297,-0.754814971,Altamente concentrado 1,Ciudad De Mexico,4,CDMX-04,C8,Yes
+1.95620318,-0.744128831,Concentrados 1,Ciudad De Mexico,5,CDMX-05,C6,Yes
+2.402921817,0.525342317,Altamente concentrado 2,Ciudad De Mexico,6,CDMX-06,C8,Yes
+4.277131036,2.466512205,Altamente concentrado 1,Ciudad De Mexico,7,CDMX-07,C9,Yes
+3.93265547,0.445004045,Altamente concentrado 1,Ciudad De Mexico,8,CDMX-08,C9,Yes
+2.48878814,-0.636610499,Altamente concentrado 2,Ciudad De Mexico,9,CDMX-09,C8,Yes
+3.524988104,1.717444047,Altamente concentrado 2,Ciudad De Mexico,10,CDMX-10,C9,Yes
+3.559653448,0.990425974,Altamente concentrado 1,Ciudad De Mexico,11,CDMX-11,C9,Yes
+3.877077706,0.951019669,Altamente concentrado 1,Ciudad De Mexico,12,CDMX-12,C9,Yes
+4.758397537,2.54016384,Altamente concentrado 1,Ciudad De Mexico,13,CDMX-13,C9,Yes
+2.598603215,-0.559041648,Altamente concentrado 2,Ciudad De Mexico,14,CDMX-14,C8,Yes
+5.387934432,4.551360528,Altamente concentrado 1,Ciudad De Mexico,15,CDMX-15,C9,Yes
+3.718475352,1.185557339,Altamente concentrado 1,Ciudad De Mexico,16,CDMX-16,C9,Yes
+2.515406933,0.036302519,Concentrados 1,Ciudad De Mexico,17,CDMX-17,C8,Yes
+3.448785612,1.21969319,Altamente concentrado 1,Ciudad De Mexico,18,CDMX-18,C9,Yes
+3.853469462,0.468554716,Altamente concentrado 1,Ciudad De Mexico,19,CDMX-19,C9,Yes
+2.539883792,-0.706906671,Altamente concentrado 1,Ciudad De Mexico,20,CDMX-20,C8,Yes
+2.300551729,-0.131331887,Concentrados 1,Ciudad De Mexico,21,CDMX-21,C8,Yes
+2.878415735,-1.099333772,Altamente concentrado 1,Ciudad De Mexico,22,CDMX-22,C8,Yes
+4.235409893,2.540149647,Altamente concentrado 1,Ciudad De Mexico,23,CDMX-23,C9,Yes
+3.457565842,2.140866647,Altamente concentrado 2,Ciudad De Mexico,24,CDMX-24,C9,Yes
+-3.800996639,2.322994033,Muy dispersos 2,Durango,1,DGO-01,C1,Yes
+-0.963724243,2.272377692,Muy dispersos 1,Durango,2,DGO-02,C3,Yes
+-3.316891093,2.145853337,Muy dispersos 1,Durango,3,DGO-03,C1,Yes
+1.274326733,-0.430848174,Concentrados 2,Durango,4,DGO-04,C7,Yes
+-1.907109628,-0.8236917,Dispersos 2,Guanajuato,1,GTO-01,C5,Yes
+-0.542180953,-0.495285789,Dispersos 1,Guanajuato,2,GTO-02,C3,Yes
+2.082515191,-1.183874294,Concentrados 1,Guanajuato,3,GTO-03,C6,Yes
+-1.450952812,-1.116499189,Dispersos 1,Guanajuato,4,GTO-04,C5,Yes
+1.842759833,-1.440070186,Altamente concentrado 2,Guanajuato,5,GTO-05,C6,Yes
+0.687180455,-1.651920337,Concentrados 2,Guanajuato,6,GTO-06,C6,Yes
+-1.349169592,0.181175115,Dispersos 1,Guanajuato,7,GTO-07,C3,Yes
+0.31007373,0.170305791,Concentración Media,Guanajuato,8,GTO-08,C7,Yes
+-0.133165398,-1.267035787,Concentración Media,Guanajuato,9,GTO-09,C7,Yes
+0.206700226,1.082840582,Concentración Media,Guanajuato,10,GTO-10,C7,Yes
+0.872133384,-2.160514128,Concentrados 2,Guanajuato,11,GTO-11,C6,Yes
+2.143441122,0.017357442,Concentrados 1,Guanajuato,12,GTO-12,C8,Yes
+-1.683581451,0.613268663,Dispersos 1,Guanajuato,13,GTO-13,C2,Yes
+-1.270026878,1.076719957,Dispersos 1,Guanajuato,14,GTO-14,C3,Yes
+0.994206103,-1.779338232,Concentrados 1,Guanajuato,15,GTO-15,C6,Yes
+-4.167997764,1.336357444,Muy dispersos 1,Guerrero,1,GRO-01,C1,Yes
+-0.922348173,0.743173734,Dispersos 1,Guerrero,2,GRO-02,C3,Yes
+-2.701086154,1.96057315,Muy dispersos 1,Guerrero,3,GRO-03,C1,Yes
+1.543415123,0.435574591,Concentrados 1,Guerrero,4,GRO-04,C7,Yes
+-4.219354366,-0.591461662,Dispersos 2,Guerrero,5,GRO-05,C4,Yes
+-4.011075968,-0.275183291,Dispersos 2,Guerrero,6,GRO-06,C4,Yes
+-1.038463035,-0.541245771,Dispersos 1,Guerrero,7,GRO-07,C3,Yes
+-4.210145615,-0.579886643,Dispersos 1,Guerrero,8,GRO-08,C4,Yes
+0.272621148,-1.007117235,Concentrados 2,Guerrero,9,GRO-09,C7,Yes
+-3.267152832,0.820253245,Dispersos 2,Hidalgo,1,HGO-01,C2,Yes
+-3.080043972,2.07406122,Dispersos 2,Hidalgo,2,HGO-02,C1,Yes
+-2.249274589,0.526621807,Dispersos 1,Hidalgo,3,HGO-03,C2,Yes
+-1.424789993,-0.046451023,Dispersos 1,Hidalgo,4,HGO-04,C3,Yes
+-0.335590604,0.762223335,Concentración Media,Hidalgo,5,HGO-05,C7,Yes
+2.377131132,1.442931223,Concentrados 2,Hidalgo,6,HGO-06,C9,Yes
+0.615882027,0.269535314,Concentración Media,Hidalgo,7,HGO-07,C7,Yes
+-3.247768553,0.329805324,Muy dispersos 1,Jalisco,1,JAL-01,C2,Yes
+-1.863198886,-0.987328335,Dispersos 1,Jalisco,2,JAL-02,C5,Yes
+-2.039918803,1.310061627,Dispersos 1,Jalisco,3,JAL-03,C2,Yes
+1.648692041,-1.436857254,Altamente concentrado 2,Jalisco,4,JAL-04,C6,Yes
+-1.191833719,-0.192988523,Dispersos 1,Jalisco,5,JAL-05,C3,Yes
+1.378835332,-0.953319307,Concentrados 1,Jalisco,6,JAL-06,C6,Yes
+0.448717123,-3.103752955,Altamente concentrado 2,Jalisco,7,JAL-07,C6,Yes
+3.495834122,1.938964191,Altamente concentrado 2,Jalisco,8,JAL-08,C9,Yes
+1.973701955,-0.766057428,Altamente concentrado 2,Jalisco,9,JAL-09,C6,Yes
+1.712084877,-0.72830633,Concentrados 1,Jalisco,10,JAL-10,C6,Yes
+3.028918078,0.163791085,Altamente concentrado 1,Jalisco,11,JAL-11,C8,Yes
+-0.181119685,-1.202782842,Concentrados 2,Jalisco,12,JAL-12,C7,Yes
+1.327764721,-1.557307764,Altamente concentrado 2,Jalisco,13,JAL-13,C6,Yes
+2.54964199,0.574118163,Altamente concentrado 2,Jalisco,14,JAL-14,C8,Yes
+-0.791026092,0.038324101,Concentración Media,Jalisco,15,JAL-15,C3,Yes
+1.752709221,-1.155860785,Altamente concentrado 2,Jalisco,16,JAL-16,C6,Yes
+-1.927090462,-0.649823888,Concentración Media,Jalisco,17,JAL-17,C5,Yes
+-2.903163641,1.359576801,Dispersos 2,Jalisco,18,JAL-18,C2,Yes
+-0.363740132,1.38184931,Dispersos 1,Jalisco,19,JAL-19,C3,Yes
+-1.049629076,-1.806262994,Concentrados 2,Jalisco,20,JAL-20,C5,Yes
+-2.394320683,1.005539451,Dispersos 1,Mexico,1,MEX-01,C2,Yes
+1.612584481,-1.582168556,Concentrados 1,Mexico,2,MEX-02,C6,Yes
+-1.464370131,-0.141843334,Concentración Media,Mexico,3,MEX-03,C3,Yes
+1.503668321,-1.171640583,Concentrados 1,Mexico,4,MEX-04,C6,Yes
+-0.25420334,-1.065240351,Concentrados 2,Mexico,5,MEX-05,C7,Yes
+2.380045253,-0.733056853,Altamente concentrado 2,Mexico,6,MEX-06,C8,Yes
+1.731582762,-0.824233654,Altamente concentrado 2,Mexico,7,MEX-07,C6,Yes
+1.622660735,-1.838008325,Altamente concentrado 2,Mexico,8,MEX-08,C6,Yes
+-3.168319411,-1.377171457,Dispersos 1,Mexico,9,MEX-09,C4,Yes
+1.86222786,-1.708922109,Altamente concentrado 2,Mexico,10,MEX-10,C6,Yes
+1.942386036,-1.259928018,Altamente concentrado 2,Mexico,11,MEX-11,C6,Yes
+1.62906042,-2.220976705,Altamente concentrado 2,Mexico,12,MEX-12,C6,Yes
+2.317504211,-0.833261386,Altamente concentrado 1,Mexico,13,MEX-13,C8,Yes
+2.511878765,0.275722074,Altamente concentrado 2,Mexico,14,MEX-14,C8,Yes
+2.386386154,-0.430361759,Altamente concentrado 2,Mexico,15,MEX-15,C8,Yes
+2.443406698,-0.884244662,Altamente concentrado 2,Mexico,16,MEX-16,C8,Yes
+2.331698932,-1.385416809,Altamente concentrado 1,Mexico,17,MEX-17,C6,Yes
+0.310874333,0.132078106,Concentrados 2,Mexico,18,MEX-18,C7,Yes
+3.057126773,1.205767442,Altamente concentrado 1,Mexico,19,MEX-19,C9,Yes
+2.806994235,-0.250720354,Altamente concentrado 1,Mexico,20,MEX-20,C8,Yes
+-0.338456192,-1.779686703,Concentrados 2,Mexico,21,MEX-21,C7,Yes
+2.763886401,1.833743954,Concentrados 1,Mexico,22,MEX-22,C9,Yes
+-0.291917194,-0.385425162,Concentrados 2,Mexico,23,MEX-23,C7,Yes
+3.316786322,0.798079672,Altamente concentrado 1,Mexico,24,MEX-24,C9,Yes
+1.560782736,-2.527307423,Altamente concentrado 1,Mexico,25,MEX-25,C6,Yes
+0.394970577,-1.244310248,Concentrados 2,Mexico,26,MEX-26,C7,Yes
+1.312895045,-0.196053045,Concentrados 1,Mexico,27,MEX-27,C7,Yes
+0.525102026,-0.496982699,Concentrados 2,Mexico,28,MEX-28,C7,Yes
+3.415152754,0.128987768,Altamente concentrado 1,Mexico,29,MEX-29,C8,Yes
+0.82508249,-2.394447631,Altamente concentrado 2,Mexico,30,MEX-30,C6,Yes
+3.121597371,-0.747086629,Altamente concentrado 1,Mexico,31,MEX-31,C8,Yes
+1.485686345,-2.229335918,Altamente concentrado 2,Mexico,32,MEX-32,C6,Yes
+1.212905571,-2.282307598,Concentrados 1,Mexico,33,MEX-33,C6,Yes
+1.898302816,-0.293061681,Concentrados 1,Mexico,34,MEX-34,C7,Yes
+-1.736170096,-0.984746524,Concentración Media,Mexico,35,MEX-35,C5,Yes
+-3.052806608,0.779162474,Dispersos 2,Mexico,36,MEX-36,C2,Yes
+1.193746077,-1.224249604,Concentrados 2,Mexico,37,MEX-37,C6,Yes
+0.994618718,-0.432912924,Concentrados 2,Mexico,38,MEX-38,C6,Yes
+1.820652226,-1.794333847,Altamente concentrado 2,Mexico,39,MEX-39,C6,Yes
+-0.176234098,-1.148041711,Concentración Media,Mexico,40,MEX-40,C7,Yes
+1.839799527,-1.141753681,Concentrados 1,Mexico,41,MEX-41,C6,Yes
+-1.949209692,-0.990318165,Dispersos 2,Michoacan,1,MICH-01,C5,Yes
+-1.783058039,1.218001197,Dispersos 1,Michoacan,2,MICH-02,C2,Yes
+-2.903966782,0.086302151,Muy dispersos 1,Michoacan,3,MICH-03,C2,Yes
+-1.157793105,-0.014358099,Concentración Media,Michoacan,4,MICH-04,C3,Yes
+-0.76863573,-0.394821696,Concentración Media,Michoacan,5,MICH-05,C3,Yes
+-2.189465813,-0.755572216,Dispersos 1,Michoacan,6,MICH-06,C5,Yes
+-0.633327519,0.000152448,Concentración Media,Michoacan,7,MICH-07,C3,Yes
+1.063640897,-0.948055522,Concentrados 2,Michoacan,8,MICH-08,C6,Yes
+0.363700516,-2.408640741,Concentrados 2,Michoacan,9,MICH-09,C6,Yes
+2.047923384,0.244506606,Concentrados 1,Michoacan,10,MICH-10,C8,Yes
+-2.202440613,-0.10573766,Dispersos 2,Michoacan,11,MICH-11,C5,Yes
+-2.684465917,-1.122936067,Dispersos 2,Michoacan,12,MICH-12,C5,Yes
+2.163533059,0.283599752,Concentrados 1,Morelos,1,MOR-01,C8,Yes
+0.889859623,-0.980442964,Concentrados 1,Morelos,2,MOR-02,C6,Yes
+0.58894673,-0.311225092,Concentrados 2,Morelos,3,MOR-03,C7,Yes
+0.278561227,-0.185271233,Concentrados 2,Morelos,4,MOR-04,C7,Yes
+-0.502774522,-1.297031689,Concentrados 2,Morelos,5,MOR-05,C7,Yes
+-2.850727703,0.245407304,Dispersos 2,Nayarit,1,NAY-01,C2,Yes
+1.395215228,-0.506759807,Concentrados 2,Nayarit,2,NAY-02,C7,Yes
+-1.459618053,0.437781691,Dispersos 1,Nayarit,3,NAY-03,C2,Yes
+1.580376408,-0.259550291,Concentrados 1,Nuevo Leon,1,NL-01,C7,Yes
+1.175261255,-1.571878805,Concentrados 1,Nuevo Leon,2,NL-02,C6,Yes
+1.157005109,-1.954961204,Concentrados 1,Nuevo Leon,3,NL-03,C6,Yes
+2.984928239,2.221157133,Altamente concentrado 2,Nuevo Leon,4,NL-04,C9,Yes
+1.589894238,-2.031202019,Altamente concentrado 2,Nuevo Leon,5,NL-05,C6,Yes
+3.175335953,2.630747686,Altamente concentrado 2,Nuevo Leon,6,NL-06,C9,Yes
+-1.044326515,1.032149035,Dispersos 2,Nuevo Leon,7,NL-07,C3,Yes
+0.930395874,-1.785966558,Altamente concentrado 2,Nuevo Leon,8,NL-08,C6,Yes
+-3.076005774,3.109785044,Muy dispersos 2,Nuevo Leon,9,NL-09,C1,Yes
+2.577631665,1.440311474,Concentrados 1,Nuevo Leon,10,NL-10,C9,Yes
+2.745994902,1.218478206,Altamente concentrado 2,Nuevo Leon,11,NL-11,C9,Yes
+-0.144983713,-0.451762995,Concentración Media,Nuevo Leon,12,NL-12,C7,Yes
+-1.9634852,-0.48750019,Dispersos 1,Oaxaca,1,OAX-01,C5,Yes
+-3.861875255,-0.051815059,Dispersos 2,Oaxaca,2,OAX-02,C4,Yes
+-1.010685162,0.8988091,Dispersos 1,Oaxaca,3,OAX-03,C3,Yes
+-0.861019802,1.329632026,Dispersos 1,Oaxaca,4,OAX-04,C3,Yes
+-2.321172545,0.519424545,Dispersos 2,Oaxaca,5,OAX-05,C2,Yes
+-3.746961157,1.096492795,Dispersos 2,Oaxaca,6,OAX-06,C1,Yes
+-1.96788722,0.56333063,Dispersos 1,Oaxaca,7,OAX-07,C2,Yes
+2.188981823,0.115549056,Concentrados 1,Oaxaca,8,OAX-08,C8,Yes
+-3.052681538,-0.219160125,Dispersos 2,Oaxaca,9,OAX-09,C2,Yes
+-2.270414278,0.991875995,Dispersos 2,Oaxaca,10,OAX-10,C2,Yes
+-1.674962015,-0.50583257,Dispersos 1,Puebla,1,PUE-01,C5,Yes
+-2.221982014,0.263765642,Dispersos 1,Puebla,2,PUE-02,C2,Yes
+-2.243739935,-0.290836509,Dispersos 1,Puebla,3,PUE-03,C5,Yes
+-2.382276241,-1.075045359,Dispersos 1,Puebla,4,PUE-04,C5,Yes
+-0.0371109,-0.866241102,Concentrados 2,Puebla,5,PUE-05,C7,Yes
+1.826024599,-0.716452869,Concentrados 1,Puebla,6,PUE-06,C6,Yes
+-0.796027051,-1.696537614,Concentrados 2,Puebla,7,PUE-07,C5,Yes
+-2.365412936,-0.684446044,Dispersos 1,Puebla,8,PUE-08,C5,Yes
+2.677788071,0.794660507,Altamente concentrado 2,Puebla,9,PUE-09,C8,Yes
+1.597109899,-0.032011369,Concentrados 1,Puebla,10,PUE-10,C7,Yes
+1.461668768,-1.408464457,Concentrados 1,Puebla,11,PUE-11,C6,Yes
+3.302064958,1.854904278,Altamente concentrado 2,Puebla,12,PUE-12,C9,Yes
+-0.308557697,0.369043209,Concentración Media,Puebla,13,PUE-13,C3,Yes
+-2.316682503,0.719350556,Dispersos 1,Puebla,14,PUE-14,C2,Yes
+-0.061128366,-0.706266637,Concentrados 2,Puebla,15,PUE-15,C7,Yes
+-2.955935089,-0.879725661,Dispersos 2,Queretaro,1,QRO-01,C5,Yes
+-0.165552636,-1.12945488,Concentrados 2,Queretaro,2,QRO-02,C7,Yes
+1.886242527,1.070875954,Concentrados 2,Queretaro,3,QRO-03,C8,Yes
+3.148205041,1.676092567,Altamente concentrado 2,Queretaro,4,QRO-04,C9,Yes
+-0.08915717,0.236378414,Concentración Media,Queretaro,5,QRO-05,C3,Yes
+1.275002153,0.264415622,Concentración Media,Quintana Roo,1,Q_ROO-01,C7,Yes
+-2.021592828,0.259072539,Dispersos 2,Quintana Roo,2,Q_ROO-02,C2,Yes
+1.399153763,-2.691474988,Altamente concentrado 2,Quintana Roo,3,Q_ROO-03,C6,Yes
+1.62573518,-0.023598586,Concentrados 2,Quintana Roo,4,Q_ROO-04,C7,Yes
+-3.583607602,0.184845158,Muy dispersos 1,San Luis Potosi,1,SLP-01,C2,Yes
+-0.625944676,0.091607044,Concentración Media,San Luis Potosi,2,SLP-02,C3,Yes
+-2.608724127,1.179632896,Dispersos 2,San Luis Potosi,3,SLP-03,C2,Yes
+-1.705274354,-0.575031172,Dispersos 1,San Luis Potosi,4,SLP-04,C5,Yes
+1.631197471,0.246297348,Concentrados 2,San Luis Potosi,5,SLP-05,C7,Yes
+1.700665787,-0.792710837,Concentrados 1,San Luis Potosi,6,SLP-06,C6,Yes
+-3.693754721,0.816019832,Dispersos 2,San Luis Potosi,7,SLP-07,C1,Yes
+-0.728900337,0.172719586,Concentración Media,Sinaloa,1,SIN-01,C3,Yes
+0.794885199,0.891896969,Concentrados 2,Sinaloa,2,SIN-02,C7,Yes
+-2.370565319,2.902219978,Dispersos 2,Sinaloa,3,SIN-03,C1,Yes
+-1.950309062,1.940908634,Dispersos 1,Sinaloa,4,SIN-04,C2,Yes
+1.596067359,-0.570914946,Concentrados 1,Sinaloa,5,SIN-05,C7,Yes
+-1.056943137,1.394075801,Dispersos 1,Sinaloa,6,SIN-06,C3,Yes
+1.42369591,0.344879214,Concentrados 2,Sinaloa,7,SIN-07,C7,Yes
+-2.918280778,0.652529166,Muy dispersos 1,Sonora,1,SON-01,C2,Yes
+-0.854841682,0.168067739,Dispersos 1,Sonora,2,SON-02,C3,Yes
+0.420945402,-1.191820496,Concentrados 2,Sonora,3,SON-03,C7,Yes
+-3.993448854,1.999099516,Muy dispersos 2,Sonora,4,SON-04,C1,Yes
+-0.059366198,-0.687244871,Concentración Media,Sonora,5,SON-05,C7,Yes
+0.283386231,0.067397612,Concentrados 2,Sonora,6,SON-06,C7,Yes
+-1.956863423,-0.125689305,Dispersos 2,Sonora,7,SON-07,C5,Yes
+-2.540290271,-0.329102522,Dispersos 2,Tabasco,1,TAB-01,C5,Yes
+-1.531775564,-0.252463203,Dispersos 1,Tabasco,2,TAB-02,C3,Yes
+-1.490335464,-1.824297647,Concentración Media,Tabasco,3,TAB-03,C5,Yes
+1.112773815,-0.15002816,Concentrados 2,Tabasco,4,TAB-04,C7,Yes
+-2.118868701,-0.591009785,Dispersos 1,Tabasco,5,TAB-05,C5,Yes
+-1.418547754,-0.399710671,Concentración Media,Tabasco,6,TAB-06,C3,Yes
+0.403983911,-1.0619798,Concentrados 1,Tamaulipas,1,TAMPS-01,C7,Yes
+-0.046753464,-0.810350927,Concentrados 2,Tamaulipas,2,TAMPS-02,C7,Yes
+-1.884633559,0.623557981,Dispersos 2,Tamaulipas,3,TAMPS-03,C2,Yes
+1.311493385,-1.038641336,Altamente concentrado 2,Tamaulipas,4,TAMPS-04,C6,Yes
+-0.171277057,0.448914432,Dispersos 1,Tamaulipas,5,TAMPS-05,C3,Yes
+-2.764022405,1.518864894,Muy dispersos 1,Tamaulipas,6,TAMPS-06,C2,Yes
+1.065673505,-0.984767432,Concentrados 2,Tamaulipas,7,TAMPS-07,C6,Yes
+2.05749259,0.639914205,Altamente concentrado 2,Tamaulipas,8,TAMPS-08,C8,Yes
+0.197794707,-2.534453989,Concentrados 2,Tamaulipas,9,TAMPS-09,C6,Yes
+-0.504778853,-0.591762687,Concentrados 2,Tlaxcala,1,TLAX-01,C3,Yes
+0.346482665,-0.872284239,Concentrados 1,Tlaxcala,2,TLAX-02,C7,Yes
+0.173260247,0.114803854,Concentrados 2,Tlaxcala,3,TLAX-03,C7,Yes
+-3.143050921,0.832009082,Muy dispersos 1,Veracruz,1,VER-01,C2,Yes
+-3.025890688,1.21650128,Muy dispersos 1,Veracruz,2,VER-02,C2,Yes
+-0.709679952,0.393738318,Dispersos 1,Veracruz,3,VER-03,C3,Yes
+1.569882673,-0.439783143,Concentrados 1,Veracruz,4,VER-04,C7,Yes
+-0.44686076,-0.845703479,Concentrados 2,Veracruz,5,VER-05,C7,Yes
+-2.445828491,0.528701807,Dispersos 1,Veracruz,6,VER-06,C2,Yes
+-1.983428574,-0.133254176,Dispersos 1,Veracruz,7,VER-07,C5,Yes
+-1.068238498,1.976521015,Dispersos 1,Veracruz,8,VER-08,C3,Yes
+-1.013994146,-0.906994677,Concentración Media,Veracruz,9,VER-09,C3,Yes
+2.790022135,0.701001907,Altamente concentrado 2,Veracruz,10,VER-10,C8,Yes
+1.214789726,0.572646443,Concentrados 2,Veracruz,11,VER-11,C7,Yes
+2.18409424,2.024281769,Concentrados 2,Veracruz,12,VER-12,C9,Yes
+-2.28711826,1.737855679,Dispersos 2,Veracruz,13,VER-13,C2,Yes
+-1.62391068,0.653238509,Dispersos 2,Veracruz,14,VER-14,C2,Yes
+-0.473287159,-0.195001288,Concentrados 2,Veracruz,15,VER-15,C3,Yes
+0.524566658,0.683352776,Concentrados 2,Veracruz,16,VER-16,C7,Yes
+-2.233529486,0.83554595,Dispersos 1,Veracruz,17,VER-17,C2,Yes
+-2.47823336,-0.479956107,Dispersos 1,Veracruz,18,VER-18,C5,Yes
+-1.814475624,0.842240527,Dispersos 1,Veracruz,19,VER-19,C2,Yes
+-1.272575982,0.027344586,Dispersos 1,Veracruz,20,VER-20,C3,Yes
+-2.02232886,-0.005293801,Dispersos 1,Yucatan,1,YUC-01,C5,Yes
+-0.412806438,0.282227401,Concentración Media,Yucatan,2,YUC-02,C3,Yes
+2.193017682,0.953447742,Concentrados 1,Yucatan,3,YUC-03,C8,Yes
+2.733862328,1.787702507,Concentrados 1,Yucatan,4,YUC-04,C9,Yes
+-1.429623096,0.66653431,Dispersos 1,Yucatan,5,YUC-05,C2,Yes
+-1.80306779,-0.106595558,Dispersos 1,Zacatecas,1,ZAC-01,C5,Yes
+-3.093129355,3.307731864,Muy dispersos 1,Zacatecas,2,ZAC-02,C1,Yes
+-2.429778217,1.232700615,Dispersos 2,Zacatecas,3,ZAC-03,C2,Yes
+-2.169850289,-0.289477104,Dispersos 1,Zacatecas,4,ZAC-04,C5,Yes
